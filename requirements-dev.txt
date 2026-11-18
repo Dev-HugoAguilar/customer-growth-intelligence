@@ -1,0 +1,5 @@
+# Dependencias de prueba (versiones verificadas localmente).
+numpy==2.5.5
+pandas==3.1.1
+scipy==1.18.1
+pytest==9.2.0
